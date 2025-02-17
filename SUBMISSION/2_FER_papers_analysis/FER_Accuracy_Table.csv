@@ -1,0 +1,41 @@
+Datasets,Method,Network Type,Network Size,Pre-processing,Data Selection,Data Group,Additional Classifier,Performance (%)
+CK+,Ouellet 14 [110],CNN (AlexNet),-,-,V&J,the last frame,LOSO,SVM 7 classes†: (94.4)
+CK+,Li et al. 15 [86],RBM,4,-,V&J,-,IN,6 classes: 96.8
+CK+,Liu et al. 14 [13],DBN CN,6,2m,-,-,8 folds,AdaBoost 6 classes: 96.7
+CK+,Liu et al. 13 [137],"CNN, RBM CN",5,-,V&J,-,10 folds,SVM 8 classes: 92.05 (87.67)
+CK+,Liu et al. 15 [138],"CNN, RBM CN",5,-,V&J,-,10 folds,SVM 7 classes‡: 93.70
+CK+,Khorrami et al. 15 [139],zero-bias CNN,4,7m,-,-,10 folds,6 classes: 95.7; 8 classes: 95.1
+CK+,Ding et al. 17 [111],CNN fine-tune,8,11m,IntraFace,-,10 folds,6 classes: (98.6); 8 classes: (96.8)
+CK+,Zeng et al. 18 [54],DAE (DSAE),3,-,AAM,-,LOSO,7 classes†: 95.79 (93.78)
+CK+,Cai et al. 17 [140],CNN loss layer,6,-,DRMF,IN,10 folds,7 classes†: 94.39 (90.66)
+CK+,Meng et al. 17 [61],CNN MN,6,-,DRMF,-,8 folds,7 classes†: 95.37 (95.51)
+CK+,Liu et al. 17 [77],CNN loss layer,11,-,IntraFace,IN,8 folds,7 classes†: 97.1 (96.1)
+CK+,Yang et al. 18 [141],GAN (cGAN),-,-,MoT,-,10 folds,7 classes†: 97.30 (96.57)
+CK+,Zhang et al. 18 [47],CNN MN,-,-,-,-,10 folds,6 classes: 98.9
+JAFFE,Liu et al. 14 [13],DBN CN,6,2m,-,213 images,LOSO,AdaBoost 7 classes‡: 91.8
+JAFFE,Hamester et al. 15 [142],"CNN, CAE NE",3,-,-,-,IN,7 classes‡: (95.8)
+MMI,Liu et al. 13 [137],"CNN, RBM CN",5,-,V&J,the middle three frames and the first frame,10 folds,SVM 7 classes‡: 74.76 (71.73)
+MMI,Liu et al. 15 [138],"CNN, RBM CN",5,-,V&J,-,10 folds,SVM 7 classes‡: 75.85
+MMI,Mollahosseini et al. 16 [14],CNN (Inception),11,7.3m,IntraFace,images from each sequence,5 folds,6 classes: 77.9
+MMI,Liu et al. 17 [77],CNN loss layer,11,-,IntraFace,IN,10 folds,6 classes: 78.53 (73.50)
+MMI,Li et al. 17 [44],CNN loss layer,8,5.8m,IntraFace,-,5 folds,SVM 6 classes: 78.46
+MMI,Yang et al. 18 [141],GAN (cGAN),-,-,MoT,-,10 folds,6 classes: 73.23 (72.67)
+TFD,Reed et al. 14 [143],RBM MN,-,-,-,"4,178 emotion labeled",5 official folds,SVM Test: 85.43
+TFD,Devries et al. 14 [58],CNN MN,4,12.0m,MoT,-,IN,Validation: 87.80 Test: 85.13 (48.29)
+TFD,Khorrami et al. 15 [139],zero-bias CNN,4,7m,-,-,-,Test: 88.6
+TFD,Ding et al. 17 [111],CNN fine-tune,8,11m,IntraFace,-,-,Test: 88.9 (87.7)
+FER 2013,Tang 13 [130],CNN loss layer,4,12.0m,-,-,IN,Test: 71.2
+FER 2013,Devries et al. 14 [58],CNN MN,4,12.0m,MoT,-,IN,Validation+Test: 67.21
+FER 2013,Zhang et al. 15 [144],CNN MN,6,21.3m,SDM,-,-,Test: 75.10
+FER 2013,Guo et al. 16 [145],CNN loss layer,10,2.6m,SDM,-,-,k-NN Test: 71.33
+FER 2013,Kim et al. 16 [146],CNN NE,5,2.4m,IntraFace,-,IN,Test: 73.73
+FER 2013,pramerdorfer et al. 16 [147],CNN NE,10/16/33,1.8/1.2/5.3 (m),-,IN,Test:75.2,
+SFEW 2.0,levi et al. 15 [78],CNN NE,VGG-S/VGG-M/GoogleNet,MoT,-,"891 training, 431 validation, and 372 test",-,Validation: 51.75 Test: 54.56
+SFEW 2.0,Ng et al. 15 [63],CNN fine-tune,AlexNet,IntraFace,-,"921 training, ? validation, and 372 test",-,Validation: 48.5 (39.63) Test: 55.6 (42.69)
+SFEW 2.0,Li et al. 17 [44],CNN loss layer,8,5.8m,IntraFace,-,"921 training, 427 validation",SVM Validation: 51.05
+SFEW 2.0,Ding et al. 17 [111],CNN fine-tune,8,11m,IntraFace,-,"891 training, 425 validation",Validation: 55.15 (46.6)
+SFEW 2.0,Liu et al. 17 [77],CNN loss layer,11,-,IntraFace,IN,"958 training, 436 validation, and 372 test",-
+SFEW 2.0,Cai et al. 17 [140],CNN loss layer,6,-,DRMF,IN,-,Validation: 52.52 (43.41) Test: 59.41 (48.29)
+SFEW 2.0,Meng et al. 17 [61],CNN MN,6,-,DRMF,-,-,Validation: 50.98 (42.57) Test: 54.30 (44.77)
+SFEW 2.0,Kim et al. 15 [76],CNN NE,5,-,multiple,-,IN,Validation: 53.9 Test: 61.6
+SFEW 2.0,Yu et al. 15 [75],CNN NE,8,6.2m,multiple,-,IN,Validation: 55.96 (47.31) Test: 61.29 (51.27)

@@ -1,0 +1,39 @@
+Image,Age,Gender,Ethnicity,Emotion,Annotation_by
+image0001063.jpg,Baby (0-1),Man,White,Anger,msro
+image0003108.jpg,Middle-aged Adult (30-49),Man,Middle Eastern,Anger,msro
+image0006264.jpg,Middle-aged Adult (30-49),Woman,Black,Contempt,msro
+image0013196.jpg,Elderly (65+),Man,Asian,Contempt,msro
+image0019021.jpg,Young Adult (20-29),Woman,Asian,Contempt,msro
+image0035153.jpg,Elderly (65+),Woman,White,Contempt,msro
+ffhq_20.png,Older Adult (50-65),Man,Black,disgust,msro
+ffhq_48.png,Child (2-9),Woman,Asian,disgust,msro
+image0000866.jpg,Young Adult (20-29),Man,Black,disgust,msro
+image0002926.jpg,Middle-aged Adult (30-49),Man,Middle Eastern,disgust,msro
+image0011562.jpg,Child (2-9),Man,Black,disgust,msro
+image0001685.jpg,Young Adult (20-29),Woman,Latino/Hispanic,fear,msro
+image0003731.jpg,Young Adult (20-29),Man,Latino/Hispanic,fear,msro
+image0012755.jpg,Adolescent (10-19),Man,Latino/Hispanic,fear,msro
+image0013449.jpg,Middle-aged Adult (30-49),Man,Latino/Hispanic,fear,msro
+image0016644.jpg,Baby (0-1),Man,Middle Eastern,fear,msro
+image0018838.jpg,Child (2-9),Man,White,fear,msro
+ffhq_10.png,Middle-aged Adult (30-49),Woman,White,happy,msro
+ffhq_164.png,Middle-aged Adult (30-49),Man,Black,happy,msro
+ffhq_3.png,Middle-aged Adult (30-49),Woman,Asian,happy,msro
+ffhq_357.png,Child (2-9),Man,Black,happy,msro
+ffhq_7.png,Child (2-9),Man,Asian,happy,msro
+ffhq_0.png,Child (2-9),Man,White,neutral,msro
+ffhq_107.png,Older Adult (50-65),Woman,White,neutral,msro
+ffhq_130.png,Child (2-9),Woman,Asian,neutral,msro
+ffhq_15.png,Young Adult (20-29),Woman,Asian,neutral,msro
+ffhq_498.png,Middle-aged Adult (30-49),Man,Indian,neutral,msro
+ffhq_54.png,Middle-aged Adult (30-49),Man,Indian,neutral,msro
+ffhq_72.png,Middle-aged Adult (30-49),Man,Black,neutral,msro
+ffhq_736.png,Older Adult (50-65),Man,Middle Eastern,neutral,msro
+image0006237.jpg,Older Adult (50-65),Man,Middle Eastern,sad,msro
+image0016204.jpg,Older Adult (50-65),Woman,White,sad,msro
+image0016331.jpg,Older Adult (50-65),Woman,White,sad,msro
+image0020274.jpg,Young Adult (20-29),Woman,White,sad,msro
+image0020311.jpg,Child (2-9),Man,Black,sad,msro
+ffhq_30.png,Child (2-9),Man,Asian,surprise,msro
+ffhq_367.png,Young Adult (20-29),Man,Latino/Hispanic,surprise,msro
+image0023529.jpg,Elderly (65+),Woman,White,surprise,msro
