@@ -1,0 +1,39 @@
+Image,Age,Gender,Ethnicity,Emotion,Annotation_by
+image0001063.jpg,Baby (0-1),Man,White,Anger,gergo
+image0003108.jpg,Middle-aged Adult (30-49),Man,Middle Eastern,Anger,gergo
+image0006264.jpg,Young Adult (20-29),Woman,Black,Contempt,gergo
+image0013196.jpg,Elderly (65+),Man,Asian,Contempt,gergo
+image0019021.jpg,Young Adult (20-29),Woman,Asian,Contempt,gergo
+image0035153.jpg,Elderly (65+),Woman,White,Contempt,gergo
+ffhq_20.png,Older Adult (50-65),Man,Black,disgust,gergo
+ffhq_48.png,Child (2-9),Woman,Asian,disgust,gergo
+image0000866.jpg,Young Adult (20-29),Man,Black,disgust,gergo
+image0002926.jpg,Middle-aged Adult (30-49),Man,White,disgust,gergo
+image0011562.jpg,Adolescent (10-19),Man,Latino/Hispanic,disgust,gergo
+image0001685.jpg,Young Adult (20-29),Woman,Middle Eastern,fear,gergo
+image0003731.jpg,Young Adult (20-29),Man,Latino/Hispanic,fear,gergo
+image0012755.jpg,Adolescent (10-19),Man,Latino/Hispanic,fear,gergo
+image0013449.jpg,Middle-aged Adult (30-49),Woman,Middle Eastern,fear,gergo
+image0016644.jpg,Baby (0-1),Man,Black,fear,gergo
+image0018838.jpg,Child (2-9),Man,Latino/Hispanic,fear,gergo
+ffhq_10.png,Young Adult (20-29),Woman,White,happy,gergo
+ffhq_164.png,Middle-aged Adult (30-49),Man,Black,happy,gergo
+ffhq_3.png,Older Adult (50-65),Woman,Asian,happy,gergo
+ffhq_357.png,Child (2-9),Man,Black,happy,gergo
+ffhq_7.png,Child (2-9),Man,Latino/Hispanic,happy,gergo
+ffhq_0.png,Baby (0-1),Man,Latino/Hispanic,neutral,gergo
+ffhq_107.png,Older Adult (50-65),Woman,White,neutral,gergo
+ffhq_130.png,Child (2-9),Woman,Middle Eastern,neutral,gergo
+ffhq_15.png,Adolescent (10-19),Man,White,surprise,gergo
+ffhq_498.png,Older Adult (50-65),Woman,Middle Eastern,neutral,gergo
+ffhq_54.png,Middle-aged Adult (30-49),Man,Indian,neutral,gergo
+ffhq_72.png,Middle-aged Adult (30-49),Man,Black,neutral,gergo
+ffhq_736.png,Older Adult (50-65),Man,Indian,neutral,gergo
+image0006237.jpg,Elderly (65+),Man,Middle Eastern,sad,gergo
+image0016204.jpg,Young Adult (20-29),Woman,White,sad,gergo
+image0016331.jpg,Elderly (65+),Woman,Asian,sad,gergo
+image0020274.jpg,Adolescent (10-19),Woman,White,sad,gergo
+image0020311.jpg,Child (2-9),Man,Black,sad,gergo
+ffhq_30.png,Child (2-9),Man,Latino/Hispanic,surprise,gergo
+ffhq_367.png,Adolescent (10-19),Man,Asian,surprise,gergo
+image0023529.jpg,Elderly (65+),Woman,White,surprise,gergo

@@ -1,6 +1,0 @@
-Model,Emotion Class,Accuracy (%),Methodology
-ResNet-50,Happy,85.86,Hard-FER (Easy)
-ResNet-50,Sad,67.0,AU-Based Classifier
-EfficientNet-B3,Fear,88.62,Binary Classifiers
-XceptionNet,Disgust,91.47,Binary Classifiers
-Ensemble,Contempt,78.51,Binary Classifiers

@@ -1,0 +1,39 @@
+Image,FolderNames,Age_A1,Gender_A1,Ethnicity_A1,Age_A2,Gender_A2,Ethnicity_A2,Age_A3,Gender_A3,Ethnicity_A3
+ffhq_0.png,neutral,Child (2-9),Man,White,Baby (0-1),Woman,Latino/Hispanic,Baby (0-1),Man,Latino/Hispanic
+ffhq_10.png,happy,Middle-aged Adult (30-49),Woman,White,Middle-aged Adult (30-49),Woman,Asian,Young Adult (20-29),Woman,White
+ffhq_107.png,neutral,Older Adult (50-65),Woman,White,Older Adult (50-65),Woman,White,Older Adult (50-65),Woman,White
+ffhq_130.png,neutral,Child (2-9),Woman,Asian,Child (2-9),Woman,Asian,Child (2-9),Woman,Middle Eastern
+ffhq_15.png,surprise,Young Adult (20-29),Woman,Asian,Young Adult (20-29),Man,White,Adolescent (10-19),Man,White
+ffhq_164.png,happy,Middle-aged Adult (30-49),Man,Black,Middle-aged Adult (30-49),Man,Black,Middle-aged Adult (30-49),Man,Black
+ffhq_20.png,disgust,Older Adult (50-65),Man,Black,Older Adult (50-65),Man,Black,Older Adult (50-65),Man,Black
+ffhq_3.png,happy,Middle-aged Adult (30-49),Woman,Asian,Middle-aged Adult (30-49),Woman,Asian,Older Adult (50-65),Woman,Asian
+ffhq_30.png,surprise,Child (2-9),Man,Asian,Baby (0-1),Man,Black,Child (2-9),Man,Latino/Hispanic
+ffhq_357.png,happy,Child (2-9),Man,Black,Child (2-9),Man,Black,Child (2-9),Man,Black
+ffhq_367.png,surprise,Young Adult (20-29),Man,Latino/Hispanic,Young Adult (20-29),Man,Asian,Adolescent (10-19),Man,Asian
+ffhq_48.png,disgust,Child (2-9),Woman,Asian,Child (2-9),Woman,Asian,Child (2-9),Woman,Asian
+ffhq_498.png,neutral,Middle-aged Adult (30-49),Man,Indian,Middle-aged Adult (30-49),Man,Indian,Older Adult (50-65),Woman,Middle Eastern
+ffhq_54.png,neutral,Middle-aged Adult (30-49),Man,Indian,Middle-aged Adult (30-49),Man,Indian,Middle-aged Adult (30-49),Man,Indian
+ffhq_7.png,happy,Child (2-9),Man,Asian,Child (2-9),Woman,Latino/Hispanic,Child (2-9),Man,Latino/Hispanic
+ffhq_72.png,neutral,Middle-aged Adult (30-49),Man,Black,Middle-aged Adult (30-49),Man,Black,Middle-aged Adult (30-49),Man,Black
+ffhq_736.png,neutral,Older Adult (50-65),Man,Middle Eastern,Older Adult (50-65),Man,Middle Eastern,Older Adult (50-65),Man,Indian
+image0000866.jpg,disgust,Young Adult (20-29),Man,Black,Adolescent (10-19),Man,Black,Young Adult (20-29),Man,Black
+image0001063.jpg,Anger,Baby (0-1),Man,White,Baby (0-1),Man,White,Baby (0-1),Man,White
+image0001685.jpg,fear,Young Adult (20-29),Woman,Latino/Hispanic,Adolescent (10-19),Woman,Middle Eastern,Young Adult (20-29),Woman,Middle Eastern
+image0002926.jpg,disgust,Middle-aged Adult (30-49),Man,Middle Eastern,Middle-aged Adult (30-49),Man,White,Middle-aged Adult (30-49),Man,White
+image0003108.jpg,Anger,Middle-aged Adult (30-49),Man,Middle Eastern,Middle-aged Adult (30-49),Man,Middle Eastern,Middle-aged Adult (30-49),Man,Middle Eastern
+image0003731.jpg,fear,Young Adult (20-29),Man,Latino/Hispanic,Young Adult (20-29),Man,Latino/Hispanic,Young Adult (20-29),Man,Latino/Hispanic
+image0006237.jpg,sad,Older Adult (50-65),Man,Middle Eastern,Older Adult (50-65),Man,Middle Eastern,Elderly (65+),Man,Middle Eastern
+image0006264.jpg,Contempt,Middle-aged Adult (30-49),Woman,Black,Young Adult (20-29),Woman,Black,Young Adult (20-29),Woman,Black
+image0011562.jpg,disgust,Child (2-9),Man,Black,Child (2-9),Man,Black,Adolescent (10-19),Man,Latino/Hispanic
+image0012755.jpg,fear,Adolescent (10-19),Man,Latino/Hispanic,Adolescent (10-19),Man,Indian,Adolescent (10-19),Man,Latino/Hispanic
+image0013196.jpg,Contempt,Elderly (65+),Man,Asian,Elderly (65+),Man,Asian,Elderly (65+),Man,Asian
+image0013449.jpg,fear,Middle-aged Adult (30-49),Man,Latino/Hispanic,Young Adult (20-29),Woman,Middle Eastern,Middle-aged Adult (30-49),Woman,Middle Eastern
+image0016204.jpg,sad,Older Adult (50-65),Woman,White,Middle-aged Adult (30-49),Woman,White,Young Adult (20-29),Woman,White
+image0016331.jpg,sad,Older Adult (50-65),Woman,White,Older Adult (50-65),Woman,Asian,Elderly (65+),Woman,Asian
+image0016644.jpg,fear,Baby (0-1),Man,Middle Eastern,Baby (0-1),Man,Black,Baby (0-1),Man,Black
+image0018838.jpg,fear,Child (2-9),Man,White,Baby (0-1),Woman,White,Child (2-9),Man,Latino/Hispanic
+image0019021.jpg,Contempt,Young Adult (20-29),Woman,Asian,Young Adult (20-29),Woman,Asian,Young Adult (20-29),Woman,Asian
+image0020274.jpg,sad,Young Adult (20-29),Woman,White,Young Adult (20-29),Woman,White,Adolescent (10-19),Woman,White
+image0020311.jpg,sad,Child (2-9),Man,Black,Child (2-9),Man,Black,Child (2-9),Man,Black
+image0023529.jpg,surprise,Elderly (65+),Woman,White,Elderly (65+),Woman,White,Elderly (65+),Woman,White
+image0035153.jpg,Contempt,Elderly (65+),Woman,White,Elderly (65+),Woman,White,Elderly (65+),Woman,White
